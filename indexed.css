@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(255, 127, 202);
+    color: rgb(38, 21, 227);
+}
+
+.heading{
+    background-color: black;
+    color: white;
+}
+span{
+    color: yellow;
+}
+#line{
+    color: blueviolet;
+    background-color: rgb(203, 225, 123);
+}
